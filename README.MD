@@ -1,11 +1,5 @@
 # Rule Engine with AST
 
-The Rule Engine Application dynamically evaluates user eligibility based on attributes like age, department, income, and spending habits. It utilizes an Abstract Syntax Tree (AST) to efficiently create, combine, and modify conditional rules.
-
-# Demonstration Video
-
-[Watch Video](/Screenshots/20241017-0937-18.1310155.mp4)
-
 ## **Features**
 
 - Rule Creation : User will be able to add the rules.
@@ -67,13 +61,6 @@ The Rule Engine Application dynamically evaluates user eligibility based on attr
 
 
 
- 
-## Screenshots
-### Screenshot 1
-![Screenshot1](./Screenshots/image.png)
-
-### Screenshot 2
-![Screenshot2](./Screenshots/image%20copy.png)
 
 
 
